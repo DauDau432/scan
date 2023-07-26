@@ -69,7 +69,7 @@ def receive_time(update: Update, _: CallbackContext) -> int:
 
 def main():
     # Khởi tạo Updater và thiết lập token của bot
-    updater = Updater("YOUR_TELEGRAM_BOT_TOKEN")
+    updater = Updater("6697374052:AAHoc6nHh5Z78i9GXM-xEJjzoiCklYPjf2M")
 
     # Lấy dispatcher để đăng ký các handler
     dispatcher = updater.dispatcher
