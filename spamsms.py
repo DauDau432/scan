@@ -1,1 +1,1 @@
-https://customer.voip24h.vn/demo/Text2Speech?phone=0983538806&recaptcha=UlpmQnRJQmJWMEdheGFYM3hmMUhnaXg5bG93cE82UXFnKzhyQStubzZyLzUwSnNOcXdNb254TndXd0VNOXpZUmsrTXFkY29jSnVVMzBvSlVLVUVrWUE9PQ%253D%253D
+https://customer.voip24h.vn/demo/Text2Speech?phone=0983538806
